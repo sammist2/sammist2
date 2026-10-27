@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--
-**sammist2/sammist2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.# Hi, I'm Samuel Akinade 👋
+**sammist2/sammist2** # Hi, I'm Samuel Akinade 👋
 
-> **Code Reviewer | Security Researcher | Java & Python Developer**  
+> **Code Reviewer | Security Researcher | Java & Python Developer | Compliance | Penetration tester **  
 > 📍 Kamloops, BC, Canada | Cybersecurity Student at Thompson Rivers University
 
 ---
@@ -13,7 +13,7 @@
 I'm a cybersecurity student passionate about **code quality, security vulnerabilities, and custom security tooling**. I specialize in:
 
 - 🔍 **Code Reviews**: Identifying security issues, API validation gaps, and resource management problems
-- 🛡️ **Security**: Network monitoring, penetration testing, supply-chain analysis, static analysis
+- 🛡️ **Security**: Network monitoring, penetration testing, supply-chain analysis, static analysis, Compliance, GRC
 - 💻 **Development**: Building security-focused applications in Java and Python
 - 🔧 **Tools**: Custom security tooling, Linux administration, Docker containerization
 
@@ -63,7 +63,7 @@ I'm a cybersecurity student passionate about **code quality, security vulnerabil
 ## 🤝 Let's Connect
 
 🔗 **LinkedIn**: [linkedin.com/in/samuel-akinade-528789435/](https://www.linkedin.com/in/samuel-akinade-528789435/)  
-📧 **Email**: [t00730892@mytru.ca](mailto:t00730892@mytru.ca)
+📧 **Email**: [Akinadesamuel140@gmail.com](mailto:Akinadesamuel140@gmail.com)
 
 ---
 
@@ -79,12 +79,12 @@ I'm a cybersecurity student passionate about **code quality, security vulnerabil
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... starting my career
+- 🌱 I’m currently learning ... cloud engineering 
+- 👯 I’m looking to collaborate on ... work on any custom tool
+- 🤔 I’m looking for help with ... getting and internship right now 
+- 💬 Ask me about ...fishing 
+- 📫 How to reach me: ... Akinadesamuel140@gmail.com
+- 😄 Pronouns: ...he/him
+- ⚡ Fun fact: ... you can always find me on a badminton court if i am not working on any project 
 -->
